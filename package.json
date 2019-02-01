@@ -43,8 +43,8 @@
     "eslint-plugin-react": "^5.2.2"
   },
   "dependencies": {
-    "debounce": "^1.0.0",
     "exenv": "^1.2.1",
+    "lodash.debounce": "^4.0.8",
     "prop-types": "^15.6.0"
   },
   "peerDependencies": {
